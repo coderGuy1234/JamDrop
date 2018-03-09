@@ -9,7 +9,7 @@ A free and open source JavaScript library for server-side programming and DOM ma
 
 JamDrop is a free and open source Javascript library built for DOM manipulation and basic server-side operations.
 
-<b>Model</b>
+<h1><b>Model</b></h1>
 
 JamDrop uses an ID selector model for DOM manipulation similar to that of jQuery's.
 Below is an example of how to change the background of a div once clicked.
