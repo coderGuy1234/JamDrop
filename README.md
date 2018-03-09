@@ -7,7 +7,7 @@ A free and open source JavaScript library for server-side programming and DOM ma
 <br>
 <b>Date: 09/03/2018</b>
 
-JamDrop is free and open source Javascript library built for DOM manipulation and basic server-side operations.
+JamDrop is a free and open source Javascript library built for DOM manipulation and basic server-side operations.
 
 <b>Model</b>
 
@@ -16,12 +16,15 @@ Below is an example of how to change the background of a div once clicked.
 
 //Insert image.
 
+All server-side operations are done using a function based model.
+
+//Inser image.
+
 <b>Dependencies</b>
 
-JamDrop requires no code dependicies but it does require a window.
+JamDrop requires no code dependicies but does require a window.
 
 <b>Documentation</b>
 
 A full documentation list will come out soon.
-
   
