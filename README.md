@@ -22,7 +22,7 @@ All server-side operations are done using a function based model.
 
 <h2><b>Dependencies</b></h2>
 
-JamDrop requires no code dependicies but does require a window.
+JamDrop requires no code dependencies but does require a window.
 
 <h2><b>Documentation</b></h2>
 
