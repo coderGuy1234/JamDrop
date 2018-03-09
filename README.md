@@ -1,9 +1,11 @@
 # JamDrop
 A free and open source JavaScript library for server-side programming and DOM manipulation. 
 
-Version: 1.0.0.
-Creator: James Ryan
-Date: 09/03/2018
+<b>Version: 1.0.0.</b>
+<br>
+<b>Creator: James Ryan</b>
+<br>
+<b>Date: 09/03/2018</b>
 
 JamDrop is free and open source Javascript library built for DOM manipulation and basic server-side operations.
 
