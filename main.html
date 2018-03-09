@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JamDrop v1.0.0</title>
+		<script src="jamdrop-1.0.0.js"></script>
+		<script src="jamdrop-functions.js"></script>
+		<script>
+			documentReady(function(){
+				var thisArray = [1, 5, 1, 324, 23455, 3, 567, 1, 4, 3, 67, 18];
+				thisArray = drainArray(thisArray);	
+				alert(thisArray[0]);
+			});
+		</script>
+	</head>
+	<body>
+		<div id="mainbody">
+			<div src="working" class="hello" id="exampleDiv" style="background: #333; height: 100px; font-family: sans-serif"><p id="innerText" style="width:100px;">Hello world!</p></div>
+			<p>Example text.</p>
+			<p id="exampleText">More example text.</p>
+			<button id="examButton">Working</button>
+		</div>
+	
+	</body>
+</html>
