@@ -106,4 +106,4 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>scrapeTagAttr(url, tagname, attribute, success function(repsonse))</code> - Scrapes a specified attribute from all tags on a url.
 
-<img src="images/scrapeTagAttr.png" styling="width: 200px;"/>
+<img src="images/scrapeTagAttr.png" width="200px"/>
