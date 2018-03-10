@@ -62,8 +62,7 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>.getText()</code> - Gets the text content of a current element.
 
+<code>.getCss(styling)</code> - Gets certain styling attributes of a specified element.
+
 <code>documentReady(function)</code> - Detects whether the document is ready. All JamDrop code must be written within this function.
-
-
-
   
