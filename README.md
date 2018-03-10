@@ -18,13 +18,28 @@ Below is an example of how to change the background of a div once clicked.
 
 All server-side operations are done using a function based model.
 
-<img src="codeExampleTwo.png"/>
-
 <h2><b>Dependencies</b></h2>
 
 JamDrop requires no code dependencies but does require a window.
 
-<h2><b>Documentation</b></h2>
+<h2><b>DOM Documentation</b></h2>
 
-A full documentation list will come out soon.
+<code>.background(colour/image)</code> - Changes the background colour/image of a given element.
+
+<code>.click(function)</code> - Detects an element being clicked (event handler).
+
+<code>.mouseOver(function)</code> - Detects the mouse hovering over an element (event handler).
+
+<code>.mouseOut(function)</code> - Detects the mouse leaving the element.
+
+<code>.moveRight(pixels)</code> - Moves a specified element right by a given amount of pixels.
+
+<code>.kill()</code> - Completely removes a specified element from the DOM.
+
+<code>.drain()</code> - Kills all the children of an element.
+
+<code>.elevate(pixels, colour)</code> - Increases the box shadow of an element by a specified amount.
+
+<code>
+
   
