@@ -82,28 +82,28 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>textCall(textfile, success function(response))</code> - Retrieves text from a specified text file.
 
-<img src="images/textCall.png"/>
+<img src="images/textCall.png" height="230px"/>
 
 <code>phpCall(phpfile, datatosend, success function(response))</code> - Makes a call to a specified php file.
 
-<img src="images/phpCall.png"/>
+<img src="images/phpCall.png" height="230px"/>
 
 <code>scrapeElementById(url, id, success function(response))</code> - Scrapes the content of a specified element on a specified webpage.
 
-<img src="images/scrapeElementById.png"/>
+<img src="images/scrapeElementById.png" height="230px"/>
 
 <code>scrapeTagById(url, id, success function(response))</code> - Scrapes the tag (element type) of an id on a specified webpage.
 
-<img src="images/scrapeTagById.png"/>
+<img src="images/scrapeTagById.png" height="230px"/>
 
 <code>scrapeElementsByTag(url, tagname, success function(response))</code> - Scrapes all elements of a certain tag from a webpage.
 
-<img src="images/scrapeElementsByTag.png"/>
+<img src="images/scrapeElementsByTag.png" height="230px"/>
           
 <code>scrapeTextContent(url, success function(repsonse))</code> - Scrapes all text content from a specified webpage/url.
 
-<img src="images/scrapeTextContent.png"/>
+<img src="images/scrapeTextContent.png" height="230px"/>
 
 <code>scrapeTagAttr(url, tagname, attribute, success function(repsonse))</code> - Scrapes a specified attribute from all tags on a url.
 
-<img src="images/scrapeTagAttr.png" height="300px"/>
+<img src="images/scrapeTagAttr.png" height="230px"/>
