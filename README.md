@@ -67,3 +67,8 @@ JamDrop requires no code dependencies but does require a window.
 <code>documentReady(function)</code> - Detects whether the document is ready. All JamDrop code must be written within this function.
   
 <code>windowLocation(url)</code> - Changes the current location of the browser to a new url whether it be local or external.
+
+<code>explode(string)</code> - Turns a specified string into an array of characters.
+
+<code>indexOf(int/string/item, array)</code> - Finds the index of a certain item within a specified array.
+
