@@ -80,3 +80,30 @@ JamDrop requires no code dependencies but does require a window.
 
 <h2><b>Server-Side Documentation</b></h2>
 
+<code>textCall(textfile, success function(response))</code> - Retrieves text from a specified text file.
+
+<img src="textCall.png"/>
+
+<code>phpCall(phpfile, datatosend, success function(response))</code> - Makes a call to a specified php file.
+
+<img src="phpCall.png"/>
+
+<code>scrapeElementById(url, id, success function(response))</code> - Scrapes the content of a specified element on a specified webpage.
+
+<img src="scrapeElementById.png"/>
+
+<code>scrapeTagById(url, id, success function(response))</code> - Scrapes the tag (element type) of an id on a specified webpage.
+
+<img src="scrapeTagById.png"/>
+
+<code>scrapeElementsByTag(url, tagname, success function(response))</code> - Scrapes all elements of a certain tag from a webpage.
+
+<img src="scrapeElementsByTag.png/>
+          
+<code>scrapeTextContent(url, success function(repsonse))</code> - Scrapes all text content from a specified webpage/url.
+
+<img src="scrapeTextContent()"/>
+
+<code>scrapeTagAttr(url, tagname, attribute, success function(repsonse))</code> - Scrapes a specified attribute from all tags on a url.
+
+<img src="scrapeTagAttr.png"/>
