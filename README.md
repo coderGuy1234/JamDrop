@@ -14,7 +14,7 @@ JamDrop is a free and open source Javascript library built for DOM manipulation 
 JamDrop uses an ID selector model for DOM manipulation similar to that of jQuery's.
 Below is an example of how to change the background of a div once clicked.
 
-<img src="images/codeExampleOne.PNG" height="230px"/>
+<img src="images/codeExampleOne.PNG" height="200px"/>
 
 All server-side operations are done using a function based model.
 
