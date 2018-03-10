@@ -44,9 +44,25 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>.getAttr(attribute)</code> - Gets a specified attribute from an element.
 
-<code>.centreText()</code> - Centres the text within a specified element.
+<code>.centerText()</code> - Centres the text within a specified element.
 
+<code>.center()</code> - Centers a specified element within a parent element.
 
+<code>.color()</code> - Changes the text colour of a specified element.
+
+<code>.font(newFont)</code> - Changes the font of a specified element.
+
+<code>.fontSize(pixels)</code> - Changes the font size of an element.
+
+<code>.width()</code> - Changes the width of a specified element.
+
+<code>.height()</code> - Changes the height of a specified element.
+
+<code>.setContent()</code> - Changes the inner html code of a specified element.
+
+<code>.getText()</code> - Gets the text content of a current element.
+
+<code>
 
 
 
