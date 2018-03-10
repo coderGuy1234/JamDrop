@@ -98,7 +98,7 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>scrapeElementsByTag(url, tagname, success function(response))</code> - Scrapes all elements of a certain tag from a webpage.
 
-<img src="scrapeElementsByTag.png/>
+<img src="scrapeElementsByTag.png"/>
           
 <code>scrapeTextContent(url, success function(repsonse))</code> - Scrapes all text content from a specified webpage/url.
 
