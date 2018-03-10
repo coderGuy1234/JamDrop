@@ -77,3 +77,6 @@ JamDrop requires no code dependencies but does require a window.
 <code>arrayToString(array)</code> - Converts an array to a string.
 
 <code>drainArray(array)</code> - Wipes/empties a specified array.
+
+<h2><b>Server-Side Documentation</b></h2>
+
