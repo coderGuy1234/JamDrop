@@ -14,7 +14,7 @@ JamDrop is a free and open source Javascript library built for DOM manipulation 
 JamDrop uses an ID selector model for DOM manipulation similar to that of jQuery's.
 Below is an example of how to change the background of a div once clicked.
 
-<img src="codeExampleOne.png"/>
+<img src="images/codeExampleOne.png"/>
 
 All server-side operations are done using a function based model.
 
@@ -82,28 +82,28 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>textCall(textfile, success function(response))</code> - Retrieves text from a specified text file.
 
-<img src="textCall.png"/>
+<img src="images/textCall.png"/>
 
 <code>phpCall(phpfile, datatosend, success function(response))</code> - Makes a call to a specified php file.
 
-<img src="phpCall.png"/>
+<img src="images/phpCall.png"/>
 
 <code>scrapeElementById(url, id, success function(response))</code> - Scrapes the content of a specified element on a specified webpage.
 
-<img src="scrapeElementById.png"/>
+<img src="images/scrapeElementById.png"/>
 
 <code>scrapeTagById(url, id, success function(response))</code> - Scrapes the tag (element type) of an id on a specified webpage.
 
-<img src="scrapeTagById.png"/>
+<img src="images/scrapeTagById.png"/>
 
 <code>scrapeElementsByTag(url, tagname, success function(response))</code> - Scrapes all elements of a certain tag from a webpage.
 
-<img src="scrapeElementsByTag.png"/>
+<img src="images/scrapeElementsByTag.png"/>
           
 <code>scrapeTextContent(url, success function(repsonse))</code> - Scrapes all text content from a specified webpage/url.
 
-<img src="scrapeTextContent()"/>
+<img src="images/scrapeTextContent()"/>
 
 <code>scrapeTagAttr(url, tagname, attribute, success function(repsonse))</code> - Scrapes a specified attribute from all tags on a url.
 
-<img src="scrapeTagAttr.png"/>
+<img src="images/scrapeTagAttr.png"/>
