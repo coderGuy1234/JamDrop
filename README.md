@@ -72,3 +72,8 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>indexOf(int/string/item, array)</code> - Finds the index of a certain item within a specified array.
 
+<code>mergeArray(array, array)</code> - Combines two specified arrays into one array.
+
+<code>arrayToString(array)</code> - Converts an array to a string.
+
+<code>drainArray(array)</code> - Wipes/empties a specified array.
