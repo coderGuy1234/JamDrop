@@ -66,3 +66,4 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>documentReady(function)</code> - Detects whether the document is ready. All JamDrop code must be written within this function.
   
+<code>windowLocation(url)</code> - Changes the current location of the browser to a new url whether it be local or external.
