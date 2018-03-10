@@ -40,6 +40,14 @@ JamDrop requires no code dependencies but does require a window.
 
 <code>.elevate(pixels, colour)</code> - Increases the box shadow of an element by a specified amount.
 
-<code>
+<code>.createChild(element)</code> - Creates a specified child element within the current element.
+
+<code>.getAttr(attribute)</code> - Gets a specified attribute from an element.
+
+<code>.centreText()</code> - Centres the text within a specified element.
+
+
+
+
 
   
