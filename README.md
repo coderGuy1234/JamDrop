@@ -7,6 +7,8 @@ A free and open source JavaScript library for server-side programming and DOM ma
 <br>
 <b>Date: 09/03/2018</b>
 
+<img src="icon.png"/>
+
 JamDrop is a free and open source Javascript library built for DOM manipulation and basic server-side operations.
 
 <h2><b>Model</b></h2>
